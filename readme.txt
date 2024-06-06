@@ -1,4 +1,4 @@
-=== Blank: Blueprint for develop new WordPress plugin ===
+=== WP Preload Image: Blueprint for develop new WordPress plugin ===
 Contributors: simonemanfre
 Tags: dynamic content, cache, issues
 Requires at least: 4.6
@@ -13,7 +13,7 @@ Blueprint for develop new WordPress plugin.
 
 == Description ==
 
-Save time starting from Blank for develop new WordPress plugin.
+Save time starting from WP Preload Image for develop new WordPress plugin.
 
 
 == Features ==
@@ -24,7 +24,7 @@ Save time starting from Blank for develop new WordPress plugin.
 
 
 == Security ==
-* Blank is totally safe.
+* WP Preload Image is totally safe.
 
 
 == Changelog ==

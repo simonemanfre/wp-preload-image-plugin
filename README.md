@@ -1,4 +1,4 @@
-# Blank: Blueprint for WordPress plugin
+# WP Preload Image: Blueprint for WordPress plugin
 
 Blueprint for develop new WordPress plugin.
 
@@ -14,7 +14,7 @@ Save time in WordPress plugin development.
 
 
 ## Security
-* Blank is totally safe.
+* WP Preload Image is totally safe.
 
 
 ## Changelog
